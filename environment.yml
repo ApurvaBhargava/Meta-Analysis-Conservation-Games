@@ -2,6 +2,7 @@ name: my-environment
 channels:
   - conda-forge
 dependencies:
+  - os
   - numpy
   - psutil
   - toolz
